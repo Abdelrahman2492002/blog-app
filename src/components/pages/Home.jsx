@@ -11,7 +11,7 @@ const Home = ({ articles, loading, error, setLimit, limit }) => {
   };
 
   useEffect(() => {
-    if (articles.length < limit) {
+    if (!articles.length) {
       setHasMore(false);
     } else {
       setHasMore(true);
