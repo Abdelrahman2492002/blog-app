@@ -1,0 +1,406 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "category": "Technology",
+      "title": "The Impact of Technology on the Workplace",
+      "author": {
+        "name": "John Smith",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "date": "August 20, 2022"
+      },
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Technology has drastically changed how we work, enabling remote collaboration, automation, and new tools to increase productivity.",
+            "However, it also raises challenges such as job displacement and the need for continuous skill upgrading."
+          ]
+        },
+        {
+          "title": "Benefits of Technology",
+          "paragraphs": [
+            "Increased productivity and efficiency.",
+            "Improved communication and collaboration across distances."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Travel",
+      "title": "Top Destinations to Visit in 2024",
+      "author": {
+        "name": "Emily Davis",
+        "image": "https://randomuser.me/api/portraits/women/2.jpg",
+        "date": "September 15, 2023"
+      },
+      "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "2024 promises exciting destinations for travelers, from serene beaches to bustling cities.",
+            "Explore the hidden gems that will make your trips unforgettable."
+          ]
+        },
+        {
+          "title": "Must-Visit Locations",
+          "paragraphs": [
+            "Bali for its stunning landscapes.",
+            "Tokyo for its vibrant culture and technology."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Health",
+      "title": "How to Maintain a Healthy Lifestyle",
+      "author": {
+        "name": "Sarah Johnson",
+        "image": "https://randomuser.me/api/portraits/men/10.jpg",
+        "date": "June 10, 2023"
+      },
+      "image": "https://cdn.pixabay.com/photo/2023/01/08/05/52/sunset-7704594_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Living healthily requires balancing diet, exercise, and mental wellness.",
+            "Learn practical tips to improve your overall well-being."
+          ]
+        },
+        {
+          "title": "Steps to a Healthier You",
+          "paragraphs": [
+            "Incorporate regular physical activity into your routine.",
+            "Focus on a balanced diet rich in fruits and vegetables."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Business",
+      "title": "The Rise of Remote Work",
+      "author": {
+        "name": "Michael Lee",
+        "image": "https://cdn.pixabay.com/photo/2024/06/20/17/03/fishing-8842590_640.jpg",
+        "date": "January 25, 2023"
+      },
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Remote work has become the norm for many industries.",
+            "This article explores the pros and cons of working from home."
+          ]
+        },
+        {
+          "title": "Advantages",
+          "paragraphs": [
+            "Flexibility in work schedules.",
+            "Reduced commuting stress."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Education",
+      "title": "The Future of Online Learning",
+      "author": {
+        "name": "Anna White",
+        "image": "https://randomuser.me/api/portraits/women/5.jpg",
+        "date": "March 14, 2023"
+      },
+      "image": "https://cdn.pixabay.com/photo/2021/10/18/19/04/mountains-6721870_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Online learning platforms have transformed education.",
+            "Students can now access world-class education from anywhere."
+          ]
+        },
+        {
+          "title": "Key Trends",
+          "paragraphs": [
+            "Interactive content and virtual reality in education.",
+            "Personalized learning paths for students."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Lifestyle",
+      "title": "Minimalism: Living More with Less",
+      "author": {
+        "name": "David Brown",
+        "image": "https://randomuser.me/api/portraits/men/6.jpg",
+        "date": "May 5, 2023"
+      },
+      "image": "https://cdn.pixabay.com/photo/2023/09/10/15/33/maple-8245249_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Minimalism is more than a trend; it's a lifestyle choice for a simpler, clutter-free existence.",
+            "This article delves into how to start and maintain a minimalist lifestyle."
+          ]
+        },
+        {
+          "title": "Why Minimalism?",
+          "paragraphs": [
+            "Less clutter means less stress.",
+            "Focus on experiences over possessions."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Food",
+      "title": "Top Recipes to Try in 2024",
+      "author": {
+        "name": "Jessica Taylor",
+        "image": "https://randomuser.me/api/portraits/women/7.jpg",
+        "date": "July 12, 2023"
+      },
+      "image": "https://cdn.pixabay.com/photo/2022/08/22/10/01/tree-7403295_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Looking for culinary inspiration? Discover the best recipes to try this year.",
+            "From quick snacks to gourmet meals, we've got you covered."
+          ]
+        },
+        {
+          "title": "Highlights",
+          "paragraphs": [
+            "Vegan chocolate cake recipe.",
+            "Quick and healthy breakfast options."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Finance",
+      "title": "Saving Strategies for Young Professionals",
+      "author": {
+        "name": "Kevin Adams",
+        "image": "https://randomuser.me/api/portraits/men/8.jpg",
+        "date": "November 30, 2023"
+      },
+      "image": "https://cdn.pixabay.com/photo/2021/10/18/19/04/mountains-6721870_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Managing finances in your early career can set you up for long-term success.",
+            "Learn tips for saving, investing, and budgeting."
+          ]
+        },
+        {
+          "title": "Essential Tips",
+          "paragraphs": [
+            "Set aside an emergency fund.",
+            "Start investing early to build wealth."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Environment",
+      "title": "The Importance of Sustainable Living",
+      "author": {
+        "name": "Linda Green",
+        "image": "https://randomuser.me/api/portraits/women/9.jpg",
+        "date": "February 28, 2023"
+      },
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Sustainability is key to preserving our planet for future generations.",
+            "This article explores easy ways to adopt a more eco-friendly lifestyle."
+          ]
+        },
+        {
+          "title": "Simple Steps",
+          "paragraphs": [
+            "Reduce, reuse, and recycle.",
+            "Opt for energy-efficient appliances."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Science",
+      "title": "Breakthroughs in Renewable Energy",
+      "author": {
+        "name": "Tom Parker",
+        "image": "https://randomuser.me/api/portraits/men/10.jpg",
+        "date": "July 22, 2024"
+      },
+      "image": "https://cdn.pixabay.com/photo/2022/08/22/10/01/tree-7403295_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Renewable energy technologies have seen significant advances in recent years.",
+            "This article discusses the latest innovations in solar, wind, and hydrogen power."
+          ]
+        },
+        {
+          "title": "Key Developments",
+          "paragraphs": [
+            "High-efficiency solar panels.",
+            "Affordable wind turbines for home use."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Art",
+      "title": "Exploring Digital Art Trends",
+      "author": {
+        "name": "Sophia Clark",
+        "image": "https://randomuser.me/api/portraits/women/11.jpg",
+        "date": "October 5, 2023"
+      },
+      "image": "https://cdn.pixabay.com/photo/2023/09/10/15/33/maple-8245249_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Digital art is redefining creativity in the 21st century.",
+            "Discover the trends shaping the art world today."
+          ]
+        },
+        {
+          "title": "Trends to Watch",
+          "paragraphs": ["The rise of NFTs.", "AI-assisted creative tools."]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Fashion",
+      "title": "Sustainable Fashion Choices",
+      "author": {
+        "name": "Olivia Evans",
+        "image": "https://randomuser.me/api/portraits/women/12.jpg",
+        "date": "March 8, 2024"
+      },
+      "image": "https://cdn.pixabay.com/photo/2022/04/22/14/14/leaves-7149850_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Fast fashion has significant environmental impacts.",
+            "Learn how to make more sustainable clothing choices."
+          ]
+        },
+        {
+          "title": "Tips for Sustainable Fashion",
+          "paragraphs": [
+            "Buy second-hand or vintage clothing.",
+            "Support brands that prioritize sustainability."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Sports",
+      "title": "The Evolution of Modern Sports",
+      "author": {
+        "name": "Jack Harris",
+        "image": "https://randomuser.me/api/portraits/men/13.jpg",
+        "date": "April 15, 2023"
+      },
+      "image": "https://cdn.pixabay.com/photo/2023/09/10/15/33/maple-8245249_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Sports continue to evolve with new rules, technology, and fan engagement.",
+            "Explore the transformations shaping modern athletics."
+          ]
+        },
+        {
+          "title": "Key Changes",
+          "paragraphs": [
+            "The use of VAR in football.",
+            "Advancements in athlete training techniques."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Culture",
+      "title": "Celebrating Diversity Through Art",
+      "author": {
+        "name": "Emma Watson",
+        "image": "https://randomuser.me/api/portraits/women/14.jpg",
+        "date": "December 25, 2023"
+      },
+      "image": "https://cdn.pixabay.com/photo/2023/01/08/05/52/sunset-7704594_640.jpg",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Art has always been a powerful medium for showcasing cultural diversity.",
+            "Discover artists and works that highlight unique traditions."
+          ]
+        },
+        {
+          "title": "Featured Artists",
+          "paragraphs": [
+            "Yayoi Kusama for her vibrant installations.",
+            "El Anatsui's transformative sculptures."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Technology",
+      "title": "The Role of AI in Everyday Life",
+      "author": {
+        "name": "Lucas King",
+        "image": "https://randomuser.me/api/portraits/men/15.jpg",
+        "date": "November 30, 2024"
+      },
+      "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "contentBlocks": [
+        {
+          "title": null,
+          "paragraphs": [
+            "Artificial Intelligence is becoming an integral part of daily life.",
+            "This article examines its impact on various industries and personal activities."
+          ]
+        },
+        {
+          "title": "Applications",
+          "paragraphs": [
+            "Smart assistants like Alexa and Siri.",
+            "AI in healthcare for diagnostics and treatment."
+          ]
+        }
+      ]
+    }
+  ]
+}
