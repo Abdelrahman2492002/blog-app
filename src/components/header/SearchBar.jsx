@@ -7,7 +7,6 @@ const SearchBar = ({ articles, setSearchItems }) => {
         : articles.filter((article) =>
             article.title.toLowerCase().includes(searchValue),
           );
-    console.log(searchedItems);
     setSearchItems(searchedItems);
   };
 
