@@ -1,7 +1,6 @@
 import { useNavigate, useParams } from "react-router-dom";
 import AuthorInfo from "../common/authorInfo";
 import { useDataApi } from "../useDataApi";
-import { v4 as uuidv4 } from "uuid";
 import Image from "../common/Image";
 import Loading from "../common/Loading";
 import { AdComponent, ContentBlock, WisdomParagraph } from "./index.js";
@@ -42,9 +41,9 @@ const CardDetail = () => {
         <Image image={articles.image} width="800px" height="362px" />
 
         {articles.contentBlocks &&
-          articles.contentBlocks.map((data) => (
+          articles.contentBlocks.map((data, index) => (
             <ContentBlock
-              key={uuidv4()}
+              key={index}
               title={data.title}
               paragraphs={data.paragraphs}
             />
