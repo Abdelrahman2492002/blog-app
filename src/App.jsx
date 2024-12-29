@@ -1,9 +1,9 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Header from "./components/header/Header";
 import CardDetail from "./components/cardDetail/CardDetail";
-import Home from "./components/pages/Home";
 import { useDataApi } from "./components/useDataApi";
-import NoPage from "./components/pages/NoPage";
+import NoPage from "./pages/NoPage";
+import Home from "./pages/Home";
 function App() {
   const {
     articles,
